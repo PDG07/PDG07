@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bienvenue 👋
 
 <!--
 **PDG07/PDG07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
