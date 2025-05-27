@@ -1,5 +1,10 @@
 ## Bienvenue 👋
 
+## Projet en cours ✨
+Développement d’un outil SaaS de visualisation simplifiée pour aider les développeurs à concevoir l’architecture de leurs logiciels selon les **principes SOLID**.  
+  
+L’objectif est de fournir une **interface visuelle assistée par IA** permettant de **sketcher des structures logicielles propres**, évolutives et cohérentes, facilitant ainsi la **mise en place de bonnes pratiques** dès les premières étapes de développement.
+
 <!--
 **PDG07/PDG07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
