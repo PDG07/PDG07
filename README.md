@@ -1,12 +1,14 @@
 ## Bienvenue 👋
+Bonjour ! Je suis développeur logiciel diplômé d’un DEC en informatique et étudiant en B. Sc. Génie logiciel, ouvert à des opportunités de stage ou d’emploi en développement logiciel.
+
+## Projet en vedette ✨
+- [Plateforme-gestion-stages](https://github.com/PDG07/Plateforme-gestion-stages)
 
 ## Projet en cours ✨
-Développement d’un outil SaaS de visualisation simplifiée pour aider les développeurs à concevoir l’architecture de leurs logiciels selon les **principes SOLID**.  
-  
-L’objectif est de fournir une **interface visuelle assistée par IA** permettant de **sketcher des structures logicielles propres**, évolutives et cohérentes, facilitant ainsi la **mise en place de bonnes pratiques** dès les premières étapes de développement.
+- **Application full-stack de gestion de candidatures :** recherche automatique d’offres, résumé des informations par IA, et suivi des documents PDF/Excel synchronisés sur le cloud.  
+  - *Technologies principales utilisées : React.js, Electron & Supabase*
 
-  
-*Technologies principales utilisées : React.js & Firebase*
+
 <!--
 **PDG07/PDG07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
