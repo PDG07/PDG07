@@ -6,6 +6,7 @@ Bonjour ! Je suis développeur logiciel diplômé d’un DEC en informatique et 
 
 ## Projet en vedette ✨
 - [Plateforme-gestion-stages](https://github.com/PDG07/Plateforme-gestion-stages)
+- [Application full-stack de gestion de candidatures (Démo)](https://github.com/PDG07/JobTrackDemo)
 
 ## Projet en cours 💻
 - **Application full-stack de gestion de candidatures :** recherche automatique d’offres, résumé des informations par IA, et suivi des documents PDF/Excel synchronisés sur le cloud.  
