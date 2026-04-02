@@ -1,5 +1,5 @@
 ## Nabil Hasnaoui 🌊
-Bonjour ! Je suis développeur logiciel diplômé d’un DEC en informatique et étudiant en B. Sc. Génie logiciel, ouvert à des opportunités de stage ou d’emploi en développement logiciel.  
+Bonjour ! Je suis développeur Full Stack diplômé d’un DEC en informatique et étudiant en B. Sc. Génie logiciel, ouvert à des opportunités de stage ou d’emploi en développement logiciel.  
 
 ### Languages et outils 🔧  
 [![My Skills](https://skillicons.dev/icons?i=electron,react,angular,flutter,html,css,ts,java,cs,python,mysql,spring,firebase,figma)](https://skillicons.dev)
